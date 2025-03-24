@@ -15,6 +15,7 @@ body  /* Nombrar la etiqueta para modificar sus atributos */
     background-color: #ffffff;
     width: 100%;
     padding: 1rem;
+    text-align: center;
 }
 
 #container-left  /* Si se menciona un id se agrega el numeral */
@@ -22,6 +23,7 @@ body  /* Nombrar la etiqueta para modificar sus atributos */
     background-color: #53d7f5;
     width: 100%;
     padding: 1rem;
+    text-align: center;
     border-right-style: solid;
     border-right-color: yellow;
     border-right-width: 15px;
