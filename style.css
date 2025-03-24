@@ -1,0 +1,28 @@
+body  /* Nombrar la etiqueta para modificar sus atributos */
+{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container
+{
+    display: flex;
+    height: 100vh;    
+}
+.container-right  /* Si se menciona una clase se agrega el punto */
+{
+    background-color: #ffffff;
+    width: 100%;
+    padding: 1rem;
+}
+
+#container-left  /* Si se menciona un id se agrega el numeral */
+{ 
+    background-color: #53d7f5;
+    width: 100%;
+    padding: 1rem;
+    border-right-style: solid;
+    border-right-color: yellow;
+    border-right-width: 15px;
+}
